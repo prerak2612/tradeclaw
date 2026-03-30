@@ -26,5 +26,8 @@
     "technical-analysis"
   ],
   "author": "Naim Katiman",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lucide-react": "^1.7.0"
+  }
 }
